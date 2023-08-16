@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola meu nome é Mateus Cruz 👋
 
 # 💫 Sobre :
 🔭 Sou estudante de Front end <br>👯 Estou procurando estágio<br>🤝 Sempre bunscando aprender mais<br>🌱 Atualmente tambem estou aprendendo Dev Jogos<br>⚡ Gosto muito de Animes, jogos , musica e desenvolvimento Web
